@@ -2,7 +2,6 @@
   <img src="https://github.com/visintinitech/WELCOME-/blob/main/BANNER.png" alt="Visintini Tech Banner" width="1000"/>
 </div>
 
-
 # 🌟 Sofía Amalia Visintini — Auxiliar en Programación | Junior Web Developer
 
 <div align="center">
@@ -22,7 +21,33 @@
 
 ---
 
-## 🇪🇸 Español 
+<div align="center">
+
+### 🚀 Tech Stack
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
+
+---
+
+### 🛠️ Tools & Productivity
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Google Workspace" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" alt="Microsoft Office" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="60" height="60"/>
+
+</div>
+
+---
+
+## 🇪🇸 Español {#espanol}
 
 <div align="center">
 
@@ -108,7 +133,7 @@ Soy **Auxiliar en Programación y Desarrolladora Web Junior**, con formación t�
 
 ---
 
-## 🇬🇧 English 
+## 🇬🇧 English {#english}
 
 <div align="center">
 
@@ -212,4 +237,3 @@ I am a **Programming Assistant and Junior Web Developer**, with technical traini
 ✨ *Gracias por visitar mi perfil / Thanks for visiting my profile. Explore my journey and stay tuned for upcoming projects.*  
 
 </div>
-
