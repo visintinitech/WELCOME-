@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://github.com/visintinitech/WELCOME-/blob/main/BANNER.png" alt="Visintini Tech Banner" width="1000"/>
+</div>
+
+
 # 🌟 Sofía Amalia Visintini — Auxiliar en Programación | Junior Web Developer
 
 <div align="center">
