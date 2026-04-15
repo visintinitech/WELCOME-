@@ -1,9 +1,22 @@
+<p align="center">
+</p>
+
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?theme=radical&locale=en&show_icons=true&username=visintinitech)
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak/?theme=radical&locale=en&show_icons=true&username=visintinitech)
+<p align="center">
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?theme=radical&locale=en&show_icons=true&layout=compact&username=visintinitech)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?theme=radical&locale=en&show_icons=true&bg_color=0d0d0d&text_color=00ff9f&icon_color=f300ff&border_color=00b8ff&username=visintinitech)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak/?theme=radical&locale=en&show_icons=true&bg_color=0d0d0d&text_color=00ff9f&icon_color=f300ff&username=visintinitech)
+
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?theme=radical&locale=en&show_icons=true&layout=donut&bg_color=0d0d0d&text_color=00ff9f&username=visintinitech)
+
+</p>
+
+---
+
+#### 💖 Credits
+- Widgets dynamic by [Tuhinpal](https://github.com/tuhinpal) & [Pranesh-2005](https://github.com/Pranesh-2005)
+- Generated with 💻 [DevNebura GitHub Profile Generator](https://nebura-dev.vercel.app/users/p/github-readme)
 
 ---
 
