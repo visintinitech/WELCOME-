@@ -1,239 +1,43 @@
-<div align="center">
-  <img src="https://github.com/visintinitech/WELCOME-/blob/main/BANNER.png" alt="Visintini Tech Banner" width="1000"/>
-</div>
-
-# 🌟 Sofía Amalia Visintini — Auxiliar en Programación | Junior Web Developer
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=sofiavisintini&color=blueviolet&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/sofiavisintini?style=social)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)
-
-</div>
-
----
-
-<div align="center">
-  <a href="#espanol"><img src="https://img.shields.io/badge/🌐-Español-red?style=for-the-badge"></a>
-  <a href="#english"><img src="https://img.shields.io/badge/🌐-English-blue?style=for-the-badge"></a>
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Tech Stack
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
-
----
-
-### 🛠️ Tools & Productivity
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Google Workspace" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" alt="Microsoft Office" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="60" height="60"/>
-
-</div>
-
----
-
-## 🇪🇸 Español {#espanol}
-
-<div align="center">
-
 ### 👩‍💻 Sobre mí
-Soy **Auxiliar en Programación y Desarrolladora Web Junior**, con formación técnica en desarrollo de software y experiencia aplicada en proyectos reales y en mi propio emprendimiento: **Visintini Tech**.  
 
-</div>
+Soy **Desarrolladora Frontend Junior**, enfocada en construir interfaces web responsivas y funcionales.
 
----
+Cuento además con conocimientos en **Python y Java**, que utilizo como complemento para entender la lógica de programación y el desarrollo de aplicaciones más completas.
 
-### 🛠️ Habilidades
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-**Técnicas**  
-- HTML & CSS (bases sólidas)  
-- JavaScript (básico/intermedio)  
-- Python (básico, Data Science)  
-- PHP (básico)  
-- SQL/MySQL (consultas, joins)  
-- Git & GitHub (control de versiones)  
-
-</td>
-<td width="50%" align="center">
-
-**Blandas**  
-- Constancia y perseverancia  
-- Responsabilidad y atención al detalle  
-- Pensamiento analítico  
-- Orientación a resultados  
-
-</td>
-</tr>
-</table>
-
-</div>
+Actualmente estoy desarrollando proyectos propios para consolidar mis habilidades en frontend y mejorar la calidad visual y funcional de mis aplicaciones.
 
 ---
 
-### 🎓 Formación Complementaria
+### 🛠️ Tech Stack
 
-<div align="center">
+**🎯 Frontend (enfoque principal)**
 
-<table>
-<tr>
-<td width="50%" align="center">
+* HTML5
+* CSS3 (Flexbox, Grid, Responsive Design)
+* JavaScript (DOM, eventos, consumo de APIs)
 
-**Tecnología**  
-- IA y Machine Learning (IBM, Google, TECLAB)  
-- Responsive Web Design (FreeCodeCamp)  
-- JavaScript Algorithms (FreeCodeCamp)  
+**⚙️ Backend / Otros conocimientos**
 
-</td>
-<td width="50%" align="center">
+* Python (lógica, scripts, bases de datos)
+* Java (POO, fundamentos)
+* SQL / MySQL
 
-**Soft Skills & Negocios**  
-- Autoliderazgo (TECLAB)  
-- Comercio Electrónico (Google Digital Academy)  
-- Productividad Personal (Google)  
-- Transformación Digital (Google)  
+**🧰 Herramientas**
 
-</td>
-</tr>
-</table>
-
-</div>
+* Git & GitHub
+* VS Code
 
 ---
 
-<div align="center">
+### 📊 GitHub Stats
 
-### 🌍 Idiomas
-🇬🇧 Inglés — B1 | 🇵🇹 Portugués — A2 | 🇮🇹 Italiano — A1  
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?theme=radical&locale=en&show_icons=true&username=visintinitech)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak/?theme=radical&locale=en&show_icons=true&username=visintinitech)
 
-### 📂 Proyectos
-🚧 *Próximamente compartiré repositorios públicos con ejemplos de mis trabajos y proyectos personales.*  
-
-</div>
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?theme=radical&locale=en&show_icons=true&layout=compact&username=visintinitech)
 
 ---
 
-## 🇬🇧 English {#english}
-
-<div align="center">
-
-### 👩‍💻 About Me
-I am a **Programming Assistant and Junior Web Developer**, with technical training in software development and hands-on experience through real projects and my own tech venture: **Visintini Tech**.  
-
-</div>
-
----
-
-### 🛠️ Skills
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-**Technical**  
-- HTML & CSS (strong foundations)  
-- JavaScript (basic/intermediate)  
-- Python (basic, Data Science)  
-- PHP (basic)  
-- SQL/MySQL (queries, joins)  
-- Git & GitHub (version control)  
-
-</td>
-<td width="50%" align="center">
-
-**Soft Skills**  
-- Persistence and perseverance  
-- Responsibility and attention to detail  
-- Analytical thinking  
-- Results-oriented mindset  
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-### 🎓 Complementary Training
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-**Technology**  
-- AI & Machine Learning (IBM, Google, TECLAB)  
-- Responsive Web Design (FreeCodeCamp)  
-- JavaScript Algorithms (FreeCodeCamp)  
-
-</td>
-<td width="50%" align="center">
-
-**Soft Skills & Business**  
-- Self-leadership (TECLAB)  
-- E-commerce (Google Digital Academy)  
-- Personal Productivity (Google)  
-- Digital Transformation (Google)  
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-### 🌍 Languages
-🇬🇧 English — B1 | 🇵🇹 Portuguese — A2 | 🇮🇹 Italian — A1  
-
-### 📂 Projects
-🚧 *Coming soon: public repositories with examples of my work and personal projects.*  
-
-</div>
-
----
-
-<div align="center">
-
-# 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiavisintini&layout=compact&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sofiavisintini&show_icons=true&theme=radical)
-
----
-
-# 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sofía%20Visintini-blue?style=for-the-badge&logo=linkedin)](#)  
-[![Email](https://img.shields.io/badge/Email-sofiaamaliavisintini%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sofiaamaliavisintini@gmail.com)
-
----
-
-✨ *Gracias por visitar mi perfil / Thanks for visiting my profile. Explore my journey and stay tuned for upcoming projects.*  
-
-</div>
+#### 💖 Credits
+- Widgets dynamic by [Tuhinpal](https://github.com/tuhinpal) & [Pranesh-2005](https://github.com/Pranesh-2005)
+- Generated with 💻 [DevNebura GitHub Profile Generator](https://nebura-dev.vercel.app/users/p/github-readme)
