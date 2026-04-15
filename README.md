@@ -1,3 +1,4 @@
+
 <p align="center">
 </p>
 
@@ -5,12 +6,8 @@
 
 <p align="center">
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?theme=radical&locale=en&show_icons=true&bg_color=0d0d0d&text_color=00ff9f&icon_color=f300ff&border_color=00b8ff&username=visintinitech)
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak/?theme=radical&locale=en&show_icons=true&bg_color=0d0d0d&text_color=00ff9f&icon_color=f300ff&username=visintinitech)
-
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?theme=radical&locale=en&show_icons=true&layout=donut&bg_color=0d0d0d&text_color=00ff9f&username=visintinitech)
-
-</p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?theme=transparent&locale=en&show_icons=true&bg_color=00000000&text_color=ffffff&icon_color=10b981&border_color=10b981&username=visintinitech)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak/?theme=transparent&locale=en&show_icons=true&bg_color=00000000&text_color=ffffff&icon_color=10b981&username=visintinitech)
 
 ---
 
@@ -31,6 +28,9 @@ Actualmente estoy desarrollando proyectos propios para consolidar mis habilidade
 ---
 
 ### 🛠️ Tech Stack
+
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?theme=dark&locale=en&show_icons=true&layout=compact&bg_color=ffffff&text_color=1a1a1b&username=visintinitech)
+
 
 **🎯 Frontend (enfoque principal)**
 
